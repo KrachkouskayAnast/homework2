@@ -15,13 +15,7 @@ print(time_format)
 
 
 
-
-
-
-
-
-
-# my_str1 = input(" Uncle+Styopa")
+ my_str1 = input(" Uncle+Styopa")
 # N = my_str1.replace("Uncle Styopa","Nastya") 
 # my_str2 = input ("Styopa")
 # n=my_str2.replace("Styopa", "Nastya")

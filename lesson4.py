@@ -13,9 +13,11 @@
 # def my_new_func(name = "Nastya"):
 #     print (F"hello {name}")
 # my_new_func()
+import pdb;pdb.set_trance()
 def my_new_func(name = "Nastya"):
-    return (F"hello {name}")
-my_new_func()
+    n = 1
+    return (F"hello {name}{n}")
+
 result = my_new_func("yan")
 print(result)
 
